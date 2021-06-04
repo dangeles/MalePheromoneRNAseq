@@ -1,3 +1,26 @@
+# ignore biomart cache
+.pybiomart*
+
+# ignore nextflow stuff:
+.nextflow*
+nxt_legacy
+.nextflow/
+work/
+nxt2/star_salmon/
+nxt2/fastqc/
+nxt2/salmon/*/
+nxt2/salmon/*.tsv
+nxt2/trimgalore
+
+# ignore fastqc:
+
+
+# ignore .bam files:
+*.bam
+*.bai
+*.sam
+
+
 figs/
 .ipynb_checkpoints/
 .Rhistory
