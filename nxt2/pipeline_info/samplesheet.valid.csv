@@ -1,0 +1,13 @@
+sample,single_end,fastq_1,fastq_2,strandedness
+ascr_50_r1_T1,1,data/reads/ascr50-1_S4_L001_R1_001.fastq.gz,,reverse
+ascr_50_r2_T1,1,data/reads/ascr50-2_S5_L001_R1_001.fastq.gz,,reverse
+ascr_50_r3_T1,1,data/reads/ascr50-3_S6_L001_R1_001.fastq.gz,,reverse
+ascr_58_r1_T1,1,data/reads/ascr58-1_S10_L001_R1_001.fastq.gz,,reverse
+ascr_58_r2_T1,1,data/reads/ascr58-2_S11_L001_R1_001.fastq.gz,,reverse
+ascr_58_r3_T1,1,data/reads/ascr58-3_S12_L001_R1_001.fastq.gz,,reverse
+control_50_r1_T1,1,data/reads/cnt50-1_S1_L001_R1_001.fastq.gz,,reverse
+control_50_r2_T1,1,data/reads/cnt50-2_S2_L001_R1_001.fastq.gz,,reverse
+control_50_r3_T1,1,data/reads/cnt50-3_S3_L001_R1_001.fastq.gz,,reverse
+control_58_r1_T1,1,data/reads/cnt58-1_S7_L001_R1_001.fastq.gz,,reverse
+control_58_r2_T1,1,data/reads/cnt58-2_S8_L001_R1_001.fastq.gz,,reverse
+control_58_r3_T1,1,data/reads/cnt58-3_S9_L001_R1_001.fastq.gz,,reverse

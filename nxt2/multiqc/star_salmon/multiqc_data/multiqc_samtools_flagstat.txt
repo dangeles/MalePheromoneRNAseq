@@ -1,0 +1,13 @@
+Sample	total_passed	total_failed	secondary_passed	secondary_failed	supplementary_passed	supplementary_failed	duplicates_passed	duplicates_failed	mapped_passed	mapped_failed	mapped_passed_pct	mapped_failed_pct	paired in sequencing_passed	paired in sequencing_failed	read1_passed	read1_failed	read2_passed	read2_failed	properly paired_passed	properly paired_failed	properly paired_passed_pct	properly paired_failed_pct	with itself and mate mapped_passed	with itself and mate mapped_failed	singletons_passed	singletons_failed	singletons_passed_pct	singletons_failed_pct	with mate mapped to a different chr_passed	with mate mapped to a different chr_failed	with mate mapped to a different chr (mapQ >= 5)_passed	with mate mapped to a different chr (mapQ >= 5)_failed	flagstat_total
+ascr_50_r1	29146485	0	0	0	0	0	23460889	0	29146485	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	29146485
+ascr_50_r2	28873840	0	0	0	0	0	23233659	0	28873840	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	28873840
+ascr_50_r3	30976484	0	0	0	0	0	25164043	0	30976484	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	30976484
+ascr_58_r1	33837730	0	0	0	0	0	28056057	0	33837730	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	33837730
+ascr_58_r2	27391219	0	0	0	0	0	22158371	0	27391219	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	27391219
+ascr_58_r3	27581618	0	0	0	0	0	22287631	0	27581618	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	27581618
+control_50_r1	27647167	0	0	0	0	0	21902370	0	27647167	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	27647167
+control_50_r2	33639845	0	0	0	0	0	27451866	0	33639845	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	33639845
+control_50_r3	26364423	0	0	0	0	0	20800783	0	26364423	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	26364423
+control_58_r1	29148992	0	0	0	0	0	23640768	0	29148992	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	29148992
+control_58_r2	26937159	0	0	0	0	0	21668105	0	26937159	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	26937159
+control_58_r3	26607892	0	0	0	0	0	21283789	0	26607892	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	26607892

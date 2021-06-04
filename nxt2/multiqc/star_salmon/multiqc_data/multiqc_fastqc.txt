@@ -1,0 +1,13 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+ascr_50_r1	ascr_50_r1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	29649101.0	0.0	50.0	47.0	28.298815510284975	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+ascr_50_r2	ascr_50_r2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	29390799.0	0.0	50.0	47.0	27.778956884379152	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+ascr_50_r3	ascr_50_r3.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	31516409.0	0.0	50.0	47.0	26.610855796813315	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+ascr_58_r1	ascr_58_r1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	34427326.0	0.0	50.0	46.0	25.398346511187714	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+ascr_58_r2	ascr_58_r2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	27862852.0	0.0	50.0	46.0	26.83194449093274	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+ascr_58_r3	ascr_58_r3.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	28100637.0	0.0	50.0	46.0	27.27170032240706	50.0	pass	pass	fail	pass	warn	pass	pass	pass	fail	warn	pass
+control_50_r1	control_50_r1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	28149440.0	0.0	50.0	46.0	29.935321798359187	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+control_50_r2	control_50_r2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	34237662.0	0.0	50.0	46.0	26.534754010479066	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+control_50_r3	control_50_r3.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	26833166.0	0.0	50.0	46.0	30.297671347653676	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+control_58_r1	control_58_r1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	29645319.0	0.0	50.0	46.0	27.23033091428258	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+control_58_r2	control_58_r2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	27421406.0	0.0	50.0	46.0	28.177172108475208	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
+control_58_r3	control_58_r3.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	27071970.0	0.0	50.0	46.0	28.408906956658214	50.0	pass	pass	fail	pass	fail	pass	pass	pass	fail	warn	pass
