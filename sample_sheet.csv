@@ -1,4 +1,10 @@
 sample,fastq_1,fastq_2,strandedness
+N2-58h-ascr_1,data/reads/N2-58h-ascr_1_S4_R1_001.fastq.gz,,reverse
+N2-58h-ascr_2,data/reads/N2-58h-ascr_2_S5_R1_001.fastq.gz,,reverse
+N2-58h-ascr_3,data/reads/N2-58h-ascr_3_S6_R1_001.fastq.gz,,reverse
+N2-58h-cnt_1,data/reads/N2-58h-cnt_1_S1_R1_001.fastq.gz,,reverse
+N2-58h-cnt_2,data/reads/N2-58h-cnt_2_S2_R1_001.fastq.gz,,reverse
+N2-58h-cnt_3,data/reads/N2-58h-cnt_3_S3_R1_001.fastq.gz,,reverse
 control_50_r1,data/reads/cnt50-1_S1_L001_R1_001.fastq.gz,,reverse
 control_50_r2,data/reads/cnt50-2_S2_L001_R1_001.fastq.gz,,reverse
 control_50_r3,data/reads/cnt50-3_S3_L001_R1_001.fastq.gz,,reverse
