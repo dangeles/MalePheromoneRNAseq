@@ -7,24 +7,24 @@
   nf-core/rnaseq v3.1
 ----------------------------------------------------
 
-Run Name: distracted_curie
+Run Name: pedantic_picasso
 
 ## nf-core/rnaseq execution completed successfully! ##
 
 
 
 
-The workflow was completed at 2021-06-04T17:22:58.377080-04:00 (duration: 46m 24s)
+The workflow was completed at 2021-08-15T17:47:25.363288-04:00 (duration: 3h 45m 37s)
 
 The command used to launch the workflow was as follows:
 
-  nextflow run ../nf-core/rnaseq -c run.config -profile conda -resume --skip_rseqc
+  nextflow run ../nf-core/rnaseq -c run.config -resume -profile conda
 
 
 
 Pipeline Configuration:
 -----------------------
- - runName: distracted_curie
+ - runName: pedantic_picasso
  - launchDir: /Users/davidangeles/repos/MalePheromoneRNAseq
  - workDir: /Users/davidangeles/repos/MalePheromoneRNAseq/work
  - projectDir: /Users/davidangeles/repos/nf-core/rnaseq
@@ -38,11 +38,12 @@ Pipeline Configuration:
  - igenomes_base: s3://ngi-igenomes/igenomes/
  - aligner: hisat2
  - pseudo_aligner: salmon
+ - skip_preseq: true
  - skip_rseqc: true
  - tracedir: ./results/pipeline_info
  - enable_conda: true
- - Date Started: 2021-06-04T16:36:34.292965-04:00
- - Date Completed: 2021-06-04T17:22:58.377080-04:00
+ - Date Started: 2021-08-15T14:01:48.019755-04:00
+ - Date Completed: 2021-08-15T17:47:25.363288-04:00
  - Pipeline script file path: /Users/davidangeles/repos/nf-core/rnaseq/main.nf
  - Pipeline script hash ID: 37e8b3382928c37ee6c00a42c5434487
  - Nextflow Version: 21.04.0

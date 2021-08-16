@@ -5,7 +5,6 @@ hisat2	2.2.0
 nextflow	21.04.0
 nf-core/rnaseq	3.1
 picard	2.23.9
-preseq	3.1.1
 qualimap	2.2.2-dev
 samtools	1.10
 stringtie	2.1.4
