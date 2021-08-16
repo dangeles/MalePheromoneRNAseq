@@ -1,3 +1,5 @@
+nxt2/multiqc/star_salmon/multiqc_data/*.txt
+
 # ignore biomart cache
 .pybiomart*
 
