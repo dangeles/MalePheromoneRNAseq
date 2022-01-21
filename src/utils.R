@@ -98,7 +98,7 @@ get_results = function(dds, factor, numerator, denominator,
   if(filter == TRUE){
     resOrdered = resOrdered[resOrdered$padj < alpha,]
   }
- resOrdered['logq'] = -log10(resOrdered$padj)
+ resOrdered['neglogq'] = -log10(resOrdered$padj)
   return(resOrdered)
 }
 
